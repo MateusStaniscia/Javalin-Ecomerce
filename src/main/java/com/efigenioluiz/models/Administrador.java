@@ -11,7 +11,7 @@ public class Administrador  extends Usuario{
     public Boolean cadastrarProduto(Produto newProduto){
         if (newProduto == null) return false;
 
-        App.bdProdutos.add(newProduto);
+        //App.bdProdutos.add(newProduto);
         return true;
     }
 }

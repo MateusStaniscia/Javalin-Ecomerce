@@ -15,12 +15,11 @@ public class Cliente extends Usuario {
     }
 
 
-    // public Boolean adicionarProdutoCarrinho(Produto newProduto) {
-    //     if (newProduto == null)
-    //         return false;
+     public Boolean adicionarProdutoCarrinho(Produto newProduto) {
+        if (newProduto == null)
+            return false;
 
-    //     this.carrinho.add(newProduto);
-    //     return true;
-    // }
+        return this.carrinho.getProdutos().add(newProduto);
+      }
 
 }
