@@ -1,6 +1,6 @@
-package com.efigenioluiz.models;
+package com.matt.models;
 
-import com.efigenioluiz.models.abstracts.Pagamento;
+import com.matt.models.abstracts.Pagamento;
 
 public class PagamentoBoleto extends Pagamento {
 

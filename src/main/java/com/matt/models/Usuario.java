@@ -1,4 +1,4 @@
-package com.efigenioluiz.models;
+package com.matt.models;
 
 public class Usuario {
     private String nome;

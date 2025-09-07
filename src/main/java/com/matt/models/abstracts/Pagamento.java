@@ -1,4 +1,4 @@
-package com.efigenioluiz.models.abstracts;
+package com.matt.models.abstracts;
 
 public abstract class Pagamento {
     private Double valor;

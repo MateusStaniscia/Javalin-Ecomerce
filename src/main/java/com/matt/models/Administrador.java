@@ -1,6 +1,6 @@
-package com.efigenioluiz.models;
+package com.matt.models;
 
-import com.efigenioluiz.App;
+import com.matt.App;
 
 public class Administrador  extends Usuario{
 

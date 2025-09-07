@@ -1,1 +1,10 @@
-com/efigenioluiz/Utils/JavalinUtils.class
+com\matt\models\Produto.class
+com\matt\models\Cliente.class
+com\matt\models\Administrador.class
+com\matt\models\PagamentoBoleto.class
+com\matt\models\PagamentoCartao.class
+com\matt\models\Carrinho.class
+com\matt\models\abstracts\Pagamento.class
+com\matt\models\Usuario.class
+com\matt\Utils\JavalinUtils.class
+com\matt\App.class
